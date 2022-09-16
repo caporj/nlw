@@ -54,7 +54,7 @@ main{
     max-width: 580px;
     width: 90%;
     margin: 32px auto;
-    display: flex; 
+    /*  display: flex; */
     gap: 24px;
     margin-top: 32px;
 }
