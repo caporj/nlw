@@ -84,7 +84,7 @@ color: #A1A1AA;
 }
 
 section ul {
-    display: flex;
+   /*  display: flex; */
     flex-wrap: wrap;
     gap: 16px;
     margin-top: 24px;
