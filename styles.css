@@ -45,10 +45,10 @@ header div{
 header div:hover {
     transform: scale(1.1);
 }
-
+/*
 main *{
     border: 1px solid red;
-}
+}*/
 
 main{
     max-width: 580px;
